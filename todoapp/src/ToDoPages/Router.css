@@ -1,0 +1,108 @@
+.navBar li {
+  display: inline-block;
+  padding: 10px 14px;
+  cursor: pointer;
+}
+.nav-bar-link {
+  text-decoration: none;
+  color: lightskyblue;
+}
+
+.nav-bar-link:hover {
+  color: brown;
+  background-color: whitesmoke;
+}
+.navBar .active {
+  color: tomato;
+}
+.btn {
+  font-size: medium;
+  cursor: pointer;
+  font-weight: 500;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  height: 35px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 5px;
+}
+.btn:hover {
+  background-color: darkgreen;
+  color: white;
+}
+.nav-bar-link1:hover {
+  color: khaki;
+}
+.nav-bar-link1 {
+  text-decoration: none;
+  color: lightskyblue;
+}
+.tdButton1,
+.tdButton2 {
+  font-size: medium;
+  cursor: pointer;
+  padding: 5px;
+  border-radius: 5px;
+}
+.tdButton1:hover,
+.tdButton2:hover {
+  background-color: darkgreen;
+  color: white;
+}
+.d1,
+.d2 {
+  margin: 2px;
+  padding: 2px;
+}
+.main {
+  display: flex;
+}
+#userListBtn {
+  cursor: pointer;
+  font-size: medium;
+  border-radius: 5px;
+  margin-top: 10px;
+  padding: 4px;
+}
+#userListBtn:hover {
+  background-color: darkgreen;
+  color: white;
+}
+.userListInput input {
+  font-size: 90%;
+  width: 200px;
+  height: 25px;
+  border-radius: 5px;
+}
+#updateUser {
+  margin-left: 100px;
+  margin-top: 60px;
+}
+#demo1{
+  display:inline-block;
+}
+.userListInput1 input {
+  font-size: 90%;
+  width: 200px;
+  height: 25px;
+  border-radius: 5px;
+}
+.userListInput1{
+  margin-bottom: 5px;
+  margin-left: 50px;
+}
+#userListBtn1{
+  cursor: pointer;
+  font-size: medium;
+  border-radius: 5px;
+  margin-top: 10px;
+  padding: 4px;
+  margin-left: 65px;
+}
+#userListBtn1:hover {
+  background-color: darkgreen;
+  color: white;
+}
+.h{
+  margin-left: 50px;
+}
+
